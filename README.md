@@ -1,4 +1,6 @@
->_The data was used for educational purposes only!!!_
+**Pokedex created in PowerBI**
+
+</br>
 
 **🗂️Data Collection**
 
