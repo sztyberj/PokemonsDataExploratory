@@ -8,7 +8,7 @@ Main data comes from [Kaggle](https://www.kaggle.com/datasets/abcsds/pokemon).
 
 Information about strength and weakness comes from this [site](https://www.eurogamer.net/pokemon-go-type-chart-effectiveness-weaknesses)
 
-PowerBi downloads images from [site](https://pokemondb.net/pokedex/national) using Image Viewer ([Download](https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/power-bi-designer/88377/1/ImgViewerVisual.0.1.0.zip))
+PowerBi downloads images from [site](https://pokemondb.net/pokedex/national) using SimpleImage ([Download](https://appsource.microsoft.com/en-us/product/power-bi-visuals/wa104381835?tab=overview)
 </br></br></br>
 **🧹Data Pre-Processing**
 
